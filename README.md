@@ -26,9 +26,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prakash7474&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-### 🔗 Connect with Me
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: your-link
