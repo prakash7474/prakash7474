@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prakash</h1>
 
-<!--
-**prakash7474/prakash7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Software Developer | 🤖 AI Enthusiast | 🚀 Full Stack Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 Currently learning **AI Development & Full Stack**
+- 🔭 Working on **Android & Web Projects**
+- 🎯 Goal: Become a skilled developer and build impactful products
+- ⚡ Fun fact: I turn ☕ coffee into code
+
+---
+
+### 🚀 Tech Stack
+- 💻 Languages: Java, Python, JavaScript  
+- 🌐 Web: HTML, CSS, React (learning)  
+- 📱 Mobile: Android Development  
+- 🛠️ Tools: Git, GitHub, VS Code  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: your-link
